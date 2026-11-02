@@ -1,5 +1,5 @@
 
-# 🏎️ Banco de Dados – Fórmula 1
+# Banco de Dados – Fórmula 1
 
 ## -Sobre o projeto
 
