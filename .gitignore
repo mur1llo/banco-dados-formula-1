@@ -1,16 +1,8 @@
-
-Arquivos temporários
 *.log
 *.tmp
 *.bak
-
-Arquivos do sistema
 .DS_Store
 Thumbs.db
-
-Configurações locais e credenciais
 .env
 *.local
-
-Arquivos de backup do MySQL
 *.sql~
