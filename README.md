@@ -63,7 +63,7 @@ Este projeto tem como finalidade desenvolver conhecimentos práticos em modelage
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
-Imagens do código no MYSql.
+Imagens do código no MySQL.
 
 <img width="1360" height="729" alt="image" src="https://github.com/user-attachments/assets/0d42c1ab-344d-42e9-b3da-1bd0e0f92a5e" />
 
