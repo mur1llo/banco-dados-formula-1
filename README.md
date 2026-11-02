@@ -56,8 +56,8 @@ Este projeto tem como finalidade desenvolver conhecimentos práticos em modelage
 
 **Murillo Cardoso Mendes**
 
-- GitHub: [Mur1llo](https://github.com/Mur1llo)
-- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/murillo-cardoso-29590a430/)
+- GitHub: https://github.com/Mur1llo
+- LinkedIn: https://www.linkedin.com/in/murillo-cardoso-29590a430/
 
 ## 📄 Licença
 
