@@ -59,6 +59,11 @@ Este projeto tem como finalidade desenvolver conhecimentos práticos em modelage
 - GitHub: https://github.com/Mur1llo
 - LinkedIn: https://www.linkedin.com/in/murillo-cardoso-29590a430/
 
-## 📄 Licença
+## -Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+
+Imagens do código no MYSql.
+
+<img width="1360" height="729" alt="image" src="https://github.com/user-attachments/assets/0d42c1ab-344d-42e9-b3da-1bd0e0f92a5e" />
+
